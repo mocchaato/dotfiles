@@ -1,0 +1,50 @@
+@define-color foreground #d3c6aa;
+@define-color foreground-inactive #4f5b58;
+@define-color background rgba(46, 56, 60, 0.9);
+
+* {
+    font-family: "Segoe UI";
+    font-size: 17px;
+    font-weight: 600;
+    padding: 0.1px;
+    margin: 0;
+}
+
+#waybar {
+    color: @foreground;
+    background-color: @background;
+    opacity: 0.9;
+}
+
+#workspaces {
+  padding-left: 0.7em;
+}
+
+#workspaces button {
+    color: @foreground;
+    padding-left: 0.2em;
+    padding-right: 0.7em;
+}
+
+#workspaces button.empty {
+    color: @foreground-inactive;
+}
+
+
+
+#memory,
+#temperature {
+    padding-left: 1em
+}
+
+
+
+#wireplumber,
+#battery,
+#backlight,
+#language,
+#network,
+#bluetooth,
+#tray {
+    padding-right: 1em 
+}
