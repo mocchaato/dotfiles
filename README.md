@@ -1,7 +1,15 @@
 # Welcome to my dotfiles 
-
-Beware of dependencies! Some functions (from neovim, for example) require node.js (nvm + npm) installed.
-
+***
+**Beware of dependencies!** Some functions (from neovim, for example) require node.js (nvm + npm) installed.
+- gtklock
+- hyprland (+ hyprpaper, hypridle)
+- waypaper
+- swaync
+- rofi
+- wlogout
+- waybar
+- pavucontrol
+***
 The dotfiles were made to be used in a clean Hyprland install (arch linux + archinstall), even though there is no negative effect on using them later on/on another wm/de
 
 ## Credits:
