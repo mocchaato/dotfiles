@@ -1,0 +1,37 @@
+MenuBar=Disabled
+
+[General]
+EditableUrl=true
+LockPanels=false
+RememberOpenedTabs=false
+ShowStatusBar=FullWidth
+Version=202
+ViewPropsTimestamp=2025,7,25,21,4,12.553
+
+[Icons]
+Theme=Papirus-Dark
+
+[IconsMode]
+IconSize=48
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
+
+[PlacesPanel]
+IconSize=32
+
+[PreviewSettings]
+Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
