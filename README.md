@@ -8,3 +8,5 @@ The dotfiles were made to be used in a clean Hyprland NixOS install, there may b
 ## Credits:
 - [hyprlock-styles](https://github.com/MrVivekRajan/Hyprlock-Styles/tree/main/Style-10)
 - [rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection/tree/master/themes)
+- [caelestia-shell](https://github.com/liperium/caelestia-shell)
+
